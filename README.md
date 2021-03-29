@@ -34,6 +34,6 @@ https://mhuda-97529.medium.com/data-analysis-of-movies-and-tv-shows-available-on
 
 <H3>File Descriptions</H3>
 
-<P><B>Project_1.ipynb</B>:  Jupyter notebook with analysis, answers to the questions, explanations and visualizations</P>
+<P><B>Netflix_Movies_And_TV_Shows.ipynb</B>:  Jupyter notebook with analysis, answers to the questions, explanations and visualizations</P>
 
 <P><B>netflix_titles.csv</B>:  Original dataset in csv format (current as of April 2021)</P>
